@@ -1,0 +1,2 @@
+# Adobe After Effects Expressions
+This repo contains a bunch of expressions I use in After Effects. Some were written completely by me, some were things I found from helpful resources around the internet.
